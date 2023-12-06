@@ -100,6 +100,8 @@ $env.NU_PLUGIN_DIRS = [
 # To add entries to PATH (on Windows you might use Path), you can use the following pattern:
 # $env.PATH = ($env.PATH | split row (char esep) | prepend '/some/path')
 
+alias dotfiles = /usr/bin/git --git-dir=/home/madhavan/dotfiles --work-tree=/home/madhavan
+
 $env.PATH = ($env.PATH | split row (char esep) | prepend "~/.cargo/bin")
 $env.PATH = ($env.PATH | split row (char esep) | prepend "~/anaconda3/bin")
 
