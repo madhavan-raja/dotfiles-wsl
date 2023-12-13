@@ -4,7 +4,7 @@ Yes, I prefer WSL over a native Linux install. I like playing my guitar (which I
 
 ## Installing WSL
 
-Microsoft has a cute [tutorial page](https://learn.microsoft.com/en-us/windows/wsl/install) for this. Just make sure we got version 2.
+Microsoft has a cute [tutorial](https://learn.microsoft.com/en-us/windows/wsl/install) for this. Just make sure we got version 2.
 
 ## Packages
 
