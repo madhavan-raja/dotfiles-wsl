@@ -15,7 +15,7 @@ Microsoft has a cute [tutorial](https://learn.microsoft.com/en-us/windows/wsl/in
 [Zellij](https://github.com/zellij-org/zellij) is a sweet terminal multiplexer. Why do we need it? Because all the cool kids use it and my terminal's vertical split is horrible. Also, it is written in Rust, so that makes it better than Tmux.
 
 ### Nushell
-[Nushel](https://github.com/nushell/nushell) is a word processor. Just kidding, it's a shell. It's object-oriented so everything looks ✨ _c l e a n_ ✨. It is also written in the greatest language ever made---Rust.
+[Nushell](https://github.com/nushell/nushell) is a word processor. Just kidding, it's a shell. It's object-oriented so everything looks ✨ _c l e a n_ ✨. It is also written in the greatest language ever made---Rust.
 
 ### Starship
 [Starship](https://github.com/starship/starship) is a prompt engine. Anyway who cares, it's written in Rust so it must be good.
