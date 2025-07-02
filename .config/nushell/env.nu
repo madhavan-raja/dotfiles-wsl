@@ -104,6 +104,8 @@ alias dotfiles = /usr/bin/git --git-dir=/home/madhavan/dotfiles --work-tree=/hom
 
 $env.PATH = ($env.PATH | split row (char esep) | prepend "~/.cargo/bin")
 $env.PATH = ($env.PATH | split row (char esep) | prepend "~/anaconda3/bin")
+$env.PATH = ($env.PATH | split row (char esep) | prepend "/usr/local/go/bin")
+$env.PATH = ($env.PATH | split row (char esep) | prepend "~/go/bin")
 
 mkdir ~/.cache/starship
 starship init nu | save -f ~/.cache/starship/init.nu
